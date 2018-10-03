@@ -42,3 +42,5 @@
 {"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T18:58:54.101Z"}
 {"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T21:59:07.831Z"}
 {"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T22:19:21.684Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T22:20:58.246Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T22:20:59.417Z"}
