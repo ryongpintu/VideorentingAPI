@@ -17,8 +17,8 @@ router.post('/',async(req,res)=>{
 	 const validpassword = await bcrypt.compare(req.body.password,user.password);
 	 if(!validpassword) return res.status(400).send('Invalid email or password');
 	const token= user.generateAuthToken();
-	console.log(token);
-	res.send(token);
+	
+	res.header('x-auth-token',token).send(_.pick(user,['name','email']));
 });
 // information expert principle
 function authenticateUser(userData){
