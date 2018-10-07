@@ -46,3 +46,14 @@
 {"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T22:20:59.417Z"}
 {"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T23:45:13.638Z"}
 {"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T23:45:14.805Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:49:50.274Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:52:14.036Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:58:33.621Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:02:00.537Z"}
+{"level":"info","message":"Connected to db vidlyDB","timestamp":"2018-10-07T15:02:01.725Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:07:06.017Z"}
+{"level":"info","message":"Connected to db vidlyDB","timestamp":"2018-10-07T15:07:07.284Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:07:52.165Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:07:53.347Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:08:17.748Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:08:18.859Z"}
