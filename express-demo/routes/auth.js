@@ -9,6 +9,7 @@ const router = express.Router();
 
 
 router.post('/',async(req,res)=>{
+	console.log("login body "+JSON.stringify(req.body));
 	const {error} =authenticateUser(req.body);
 	if(error) return res.status(400).send(error.details[0].message);
 	
@@ -18,7 +19,7 @@ router.post('/',async(req,res)=>{
 	 if(!validpassword) return res.status(400).send('Invalid email or password');
 	const token= user.generateAuthToken();
 	
-	res.header('x-auth-token',token).send(_.pick(user,['name','email']));
+	res.send({token});
 	
 });
 // information expert principle

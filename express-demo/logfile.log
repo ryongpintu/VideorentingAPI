@@ -57,3 +57,20 @@
 {"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:07:53.347Z"}
 {"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:08:17.748Z"}
 {"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:08:18.859Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:17:05.318Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:17:55.305Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:17:56.393Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:25:18.270Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:25:19.516Z"}
+{"message":"res.headers is not a function","stack":"TypeError: res.headers is not a function\n    at router.post (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\auth.js:22:6)\n    at <anonymous>","level":"error","timestamp":"2018-10-07T16:25:48.876Z"}
+{"message":"res.headers is not a function","stack":"TypeError: res.headers is not a function\n    at router.post (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\auth.js:22:6)\n    at <anonymous>","level":"error","timestamp":"2018-10-07T16:33:39.644Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:34:02.927Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:34:04.139Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:55:24.768Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:55:25.924Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:56:52.767Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:56:53.909Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T19:31:00.970Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T19:31:02.203Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-08T06:50:13.396Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-08T06:50:14.672Z"}
