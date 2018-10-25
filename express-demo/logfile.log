@@ -74,3 +74,24 @@
 {"level":"info","message":"Connected to db ","timestamp":"2018-10-07T19:31:02.203Z"}
 {"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-08T06:50:13.396Z"}
 {"level":"info","message":"Connected to db ","timestamp":"2018-10-08T06:50:14.672Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T15:52:38.342Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T15:52:39.480Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T15:58:38.962Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T15:58:40.086Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:03:57.785Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:03:58.969Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:07:20.285Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:07:21.479Z"}
+{"message":"Parse error on line 10:\n...d>\r<body>\r  {{body}\r</body>\r</html>\n---------------------^\nExpecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'","stack":"Error: Parse error on line 10:\n...d>\r<body>\r  {{body}\r</body>\r</html>\n---------------------^\nExpecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'\n    at Parser.parseError (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:268:19)\n    at Parser.parse (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:337:30)\n    at HandlebarsEnvironment.parse (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\base.js:46:43)\n    at compileInput (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:515:19)\n    at ret (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:524:18)\n    at ExpressHandlebars._renderTemplate (E:\\NodeJsProject\\FIRST-APP\\node_modules\\express-handlebars\\lib\\express-handlebars.js:247:12)\n    at ExpressHandlebars.<anonymous> (E:\\NodeJsProject\\FIRST-APP\\node_modules\\express-handlebars\\lib\\express-handlebars.js:173:21)\n    at <anonymous>","level":"error","timestamp":"2018-10-25T16:08:11.515Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:09:00.187Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:09:01.339Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:18:25.275Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:18:26.623Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:19:06.592Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:19:07.765Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:20:11.005Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:20:12.350Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T18:33:16.201Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T18:33:17.289Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T19:51:24.020Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T19:51:25.261Z"}

@@ -21,6 +21,7 @@
     "dezalgo": "^1.0.3",
     "express": "^4.16.3",
     "express-async-errors": "^3.0.0",
+    "express-handlebars": "^3.0.0",
     "fawn": "^2.1.5",
     "helmet": "^3.13.0",
     "jest": "^23.6.0",
