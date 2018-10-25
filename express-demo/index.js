@@ -1,6 +1,5 @@
 const express = require('express');
 const winston = require('winston');
-const path= require('path');
 const exphbs=require('express-handlebars');
 const app = express();
 require('./startup/loggin')();
